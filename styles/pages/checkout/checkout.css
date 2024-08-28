@@ -12,6 +12,7 @@
      without needing a container. */
   margin-left: auto;
   margin-right: auto;
+  border:5px solid blue;
 }
 
 .page-title {
@@ -30,6 +31,7 @@
   /* Use align-items: start; to prevent the elements
      in the grid from stretching vertically. */
   align-items: start;
+  border:5px solid green;
 }
 
 @media (max-width: 1000px) {
@@ -47,10 +49,12 @@
   border: 1px solid rgb(222, 222, 222);
   border-radius: 4px;
   padding: 18px;
+  border:10px solid black;
 }
 
 .cart-item-container {
   margin-bottom: 12px;
+  border:5px solid red;
 }
 
 .payment-summary {
@@ -117,6 +121,7 @@
 
 .product-quantity .link-primary {
   margin-left: 3px;
+  border:5px solid blue;
 }
 
 @media (max-width: 1000px) {
@@ -144,6 +149,7 @@
   grid-template-columns: 24px 1fr;
   margin-bottom: 12px;
   cursor: pointer;
+  border:5px solid blue;
 }
 
 .delivery-option-input {

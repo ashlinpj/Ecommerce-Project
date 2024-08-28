@@ -11,6 +11,7 @@
      without needing a container. */
   margin-left: auto;
   margin-right: auto;
+  border:5px solid red;
 }
 
 .back-to-orders-link {
@@ -41,6 +42,7 @@
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 15px;
+  border:5px solid red;
 }
 
 .current-status {
@@ -71,6 +73,8 @@
   border: 1px solid rgb(200, 200, 200);
   border-radius: 50px;
   overflow: hidden;
+  
+  
 }
 
 .progress-bar {
