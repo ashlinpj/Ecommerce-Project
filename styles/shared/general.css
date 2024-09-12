@@ -25,23 +25,21 @@ input, select, button {
 }
 
 .button-primary {
-  color: rgb(33, 33, 33);
-  background-color: rgb(255, 216, 20);
-  border: 1px solid rgb(252, 210, 0);
+  color: white;
+  background-color: rgb(55, 67, 173);
+  border: none;
   border-radius: 8px;
   cursor: pointer;
   box-shadow: 0 2px 5px rgba(213, 217, 217, 0.5);
+  transition:opacity 0.10s;
 }
 
 .button-primary:hover {
-  background-color: rgb(247, 202, 0);
-  border: 1px solid rgb(242, 194, 0);
+  opacity:0.9;
 }
 
 .button-primary:active {
-  background: rgb(255, 216, 20);
-  border-color: rgb(252, 210, 0);
-  box-shadow: none;
+  opacity:0.7;
 }
 
 .button-secondary {
