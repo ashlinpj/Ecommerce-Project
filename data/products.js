@@ -293,25 +293,7 @@ const products = [
       "womens"
     ]
   },
-  {
-    id: "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
-    image: "images/products/women-stretch-popover-hoodie-black.jpg",
-    name: "Women's Stretch Popover Hoodie",
-    rating: {
-      stars: 4.5,
-      count: 2465
-    },
-    priceCents: 1374,
-    keywords: [
-      "hooded",
-      "hoodies",
-      "sweaters",
-      "womens",
-      "apparel"
-    ],
-    type: "clothing",
-    sizeChartLink: "images/clothing-size-chart.png"
-  },
+  
   {
     id: "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
     image: "images/products/bathroom-rug.jpg",
@@ -327,22 +309,7 @@ const products = [
       "home"
     ]
   },
-  {
-    id: "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
-    image: "images/products/women-knit-ballet-flat-black.jpg",
-    name: "Women's Knit Ballet Flat",
-    rating: {
-      stars: 4,
-      count: 326
-    },
-    priceCents: 2640,
-    keywords: [
-      "shoes",
-      "flats",
-      "womens",
-      "footwear"
-    ]
-  },
+  
   {
     id: "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
     image: "images/products/men-golf-polo-t-shirt-blue.jpg",
@@ -489,23 +456,7 @@ const products = [
       "home"
     ]
   },
-  {
-    id: "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
-    image: "images/products/women-french-terry-fleece-jogger-camo.jpg",
-    name: "Women's Fleece Jogger Sweatpant",
-    rating: {
-      stars: 4.5,
-      count: 248
-    },
-    priceCents: 2400,
-    keywords: [
-      "pants",
-      "sweatpants",
-      "jogging",
-      "apparel",
-      "womens"
-    ]
-  },
+  
   {
     id: "d339adf3-e004-4c20-a120-40e8874c66cb",
     image: "images/products/double-elongated-twist-french-wire-earrings.webp",
